@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @MegaZhaba
+/src/backend/database.py      @MegaZhaba
+/src/backend/routers/auth.py  @MegaZhaba
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @MegaZhaba
